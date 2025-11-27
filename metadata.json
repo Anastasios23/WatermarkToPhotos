@@ -1,0 +1,5 @@
+{
+  "name": "MarkMaster AI",
+  "description": "A professional photo watermarking tool. Upload your photos, add custom logos, or generate unique watermark logos using Gemini AI. Features intuitive drag-and-drop positioning and real-time preview.",
+  "requestFramePermissions": []
+}
